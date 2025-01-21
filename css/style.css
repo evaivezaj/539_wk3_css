@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+h2{
+    color: hotpink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+
+h3{
+    color: green;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    font-size: large;
+}
